@@ -1,0 +1,559 @@
+.android-long-child,
+.android-long-inner,
+.android-long-item {
+  position: absolute;
+  top: 1359px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 360px;
+  height: 6px;
+  opacity: 0.8;
+}
+.android-long-inner,
+.android-long-item {
+  top: 1602px;
+}
+.android-long-inner {
+  top: 633px;
+}
+.android-long-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 24px;
+}
+.android-long-child2,
+.android-long-child3 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 360px;
+  height: 236px;
+}
+.android-long-child2 {
+  object-fit: cover;
+}
+.android-long-child3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.6));
+}
+.computer-engineering5,
+.computer-engineers-follow5 {
+  position: absolute;
+  top: 188px;
+  left: 16px;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+}
+.computer-engineers-follow5 {
+  top: 212px;
+  font-size: var(--font-size-xs);
+}
+.android-long-child4 {
+  position: absolute;
+  top: 979px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 360px;
+  height: 6px;
+  opacity: 0.8;
+}
+.group-child205,
+.iconnavigationarrow-back-24p4 {
+  position: absolute;
+  top: 40px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+}
+.group-child205 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 0.8px solid var(--color-white);
+  box-sizing: border-box;
+  width: 76px;
+  height: 28px;
+}
+.join-group2 {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  font-weight: 500;
+}
+.rectangle-parent120 {
+  text-decoration: none;
+  position: absolute;
+  top: 38px;
+  left: 266px;
+  width: 76px;
+  height: 28px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.group-child206 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 106px;
+  height: 32px;
+}
+.filter-all4 {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  font-size: var(--font-size-smi);
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.baseline-arrow-drop-down-24px-icon12 {
+  position: absolute;
+  top: 6px;
+  left: 76px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangle-parent121 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 274px;
+  left: 236px;
+  width: 106px;
+  height: 32px;
+}
+.android-long-child5,
+.android-long-child6,
+.android-long-child7 {
+  position: absolute;
+  top: 326px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  width: 360px;
+  height: 307px;
+}
+.android-long-child6,
+.android-long-child7 {
+  top: 651px;
+  height: 328px;
+}
+.android-long-child7 {
+  top: 985px;
+  height: 374px;
+}
+.posts3684 {
+  position: absolute;
+  top: 282px;
+  left: 16px;
+  letter-spacing: 0.01em;
+}
+.android-long-child8 {
+  position: absolute;
+  top: 326px;
+  left: 0;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  width: 360px;
+  height: 120px;
+  object-fit: cover;
+}
+.article19 {
+  color: var(--color-darkslategray-300);
+}
+.article18 {
+  position: absolute;
+  top: 460px;
+  left: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.ive-worked-in18,
+.what-if-famous9 {
+  position: absolute;
+  left: 16px;
+  display: inline-block;
+}
+.what-if-famous9 {
+  top: 485px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 280px;
+}
+.ive-worked-in18 {
+  top: 537px;
+  color: var(--color-darkslategray-100);
+  width: 324px;
+}
+.android-long-child9 {
+  position: absolute;
+  top: 576px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.android-long-child10 {
+  position: absolute;
+  top: 485px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.k-views30,
+.sarthak-kamra11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.k-views30 {
+  top: 17px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-darkslategray-100);
+}
+.sarthak-kamra-parent2 {
+  position: absolute;
+  top: 578px;
+  left: 65px;
+  width: 91px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.group-child207 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 70px;
+  height: 36px;
+}
+.baseline-share-24px-icon16 {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.share16 {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-gray-400);
+  text-align: left;
+}
+.rectangle-parent122 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 577px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.education18 {
+  position: absolute;
+  top: 785px;
+  left: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.ive-worked-in19,
+.tax-benefits-for9 {
+  position: absolute;
+  left: 16px;
+  display: inline-block;
+}
+.tax-benefits-for9 {
+  top: 810px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 280px;
+}
+.ive-worked-in19 {
+  top: 883px;
+  color: var(--color-darkslategray-100);
+  width: 324px;
+}
+.android-long-child11 {
+  position: absolute;
+  top: 922px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.android-long-child12 {
+  position: absolute;
+  top: 810px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.finance-investment9,
+.meetup13 {
+  position: absolute;
+  top: 1131px;
+  left: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.finance-investment9 {
+  top: 1156px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: inline-block;
+  width: 280px;
+}
+.outline-location-on-24px-icon16 {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.ahmedabad-india9,
+.fri-12-oct9 {
+  position: absolute;
+  top: 0;
+  left: 180px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.fri-12-oct9 {
+  left: 18px;
+  display: inline-block;
+  width: 120px;
+}
+.baseline-today-24px-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.outline-location-on-24px-parent14 {
+  position: absolute;
+  top: 1208px;
+  left: 16px;
+  width: 280px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+}
+.group-child208 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 0.7px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 34px;
+}
+.visit-website9 {
+  position: absolute;
+  top: 8px;
+  left: 124px;
+  font-size: var(--font-size-smi);
+  line-height: 140.4%;
+  font-weight: 600;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-tomato);
+  text-align: center;
+}
+.rectangle-parent123 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1240px;
+  left: 16px;
+  width: 328px;
+  height: 34px;
+}
+.android-long-child13 {
+  position: absolute;
+  top: 1156px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.sarah-west-parent2 {
+  position: absolute;
+  top: 924px;
+  left: 65px;
+  width: 69px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent124 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 923px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.android-long-child14 {
+  position: absolute;
+  top: 1302px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.ronal-jones-parent2 {
+  position: absolute;
+  top: 1304px;
+  left: 65px;
+  width: 74px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent125 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1303px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.android-long-child15,
+.android-long-child16 {
+  position: absolute;
+  top: 651px;
+  left: 0;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  width: 360px;
+  height: 120px;
+  object-fit: cover;
+}
+.android-long-child16 {
+  top: 997px;
+}
+.android-long-child17 {
+  position: absolute;
+  top: 1365px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  width: 360px;
+  height: 237px;
+}
+.job16,
+.software-developer-4 {
+  position: absolute;
+  top: 1385px;
+  left: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.software-developer-4 {
+  top: 1410px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: inline-block;
+  width: 280px;
+}
+.apply-on-timesjobs7 {
+  position: absolute;
+  top: 8px;
+  left: 105px;
+  font-size: var(--font-size-smi);
+  line-height: 140.4%;
+  font-weight: 600;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.rectangle-parent126 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1479px;
+  left: 16px;
+  width: 328px;
+  height: 34px;
+}
+.android-long-child18 {
+  position: absolute;
+  top: 1410px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.android-long-child19 {
+  position: absolute;
+  top: 1545px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.joseph-gray-parent2 {
+  position: absolute;
+  top: 1547px;
+  left: 65px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent127 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1546px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.outline-location-on-24px-parent15 {
+  position: absolute;
+  top: 1447px;
+  left: 16px;
+  width: 247px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+}
+.android-long {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-400);
+  font-family: var(--font-ibm-plex-sans);
+}

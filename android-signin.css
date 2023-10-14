@@ -1,0 +1,750 @@
+.android-signin-child,
+.android-signin-inner,
+.android-signin-item {
+  position: absolute;
+  top: 1359px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 360px;
+  height: 6px;
+  opacity: 0.8;
+}
+.android-signin-inner,
+.android-signin-item {
+  top: 1602px;
+}
+.android-signin-inner {
+  top: 633px;
+}
+.android-signin-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 24px;
+}
+.android-signin-child2,
+.android-signin-child3 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 360px;
+  height: 236px;
+}
+.android-signin-child2 {
+  object-fit: cover;
+}
+.android-signin-child3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.6));
+}
+.computer-engineering1,
+.computer-engineers-follow1 {
+  position: absolute;
+  left: 16px;
+  color: var(--color-white);
+}
+.computer-engineering1 {
+  top: 188px;
+  font-size: var(--font-size-mid);
+}
+.computer-engineers-follow1 {
+  top: 212px;
+}
+.android-signin-child4 {
+  position: absolute;
+  top: 979px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 360px;
+  height: 6px;
+  opacity: 0.8;
+}
+.group-child159,
+.iconnavigationarrow-back-24p {
+  position: absolute;
+  top: 40px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+}
+.group-child159 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 0.8px solid var(--color-white);
+  box-sizing: border-box;
+  width: 85px;
+  height: 28px;
+}
+.leave-group4 {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  font-weight: 500;
+}
+.rectangle-parent75 {
+  position: absolute;
+  top: 38px;
+  left: 257px;
+  width: 85px;
+  height: 28px;
+  color: var(--color-white);
+}
+.group-child160 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 106px;
+  height: 32px;
+}
+.filter-all {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  font-weight: 500;
+}
+.baseline-arrow-drop-down-24px-icon8 {
+  position: absolute;
+  top: 6px;
+  left: 76px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.rectangle-parent76 {
+  position: absolute;
+  top: 274px;
+  left: 236px;
+  width: 106px;
+  height: 32px;
+  font-size: var(--font-size-smi);
+}
+.android-signin-child5,
+.android-signin-child6,
+.android-signin-child7 {
+  position: absolute;
+  top: 326px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  width: 360px;
+  height: 307px;
+}
+.android-signin-child6,
+.android-signin-child7 {
+  top: 651px;
+  height: 328px;
+}
+.android-signin-child7 {
+  top: 985px;
+  height: 374px;
+}
+.posts368 {
+  position: absolute;
+  top: 282px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.01em;
+}
+.android-signin-child8 {
+  position: absolute;
+  top: 326px;
+  left: 0;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  width: 360px;
+  height: 120px;
+  object-fit: cover;
+}
+.article11 {
+  color: var(--color-darkslategray-300);
+}
+.article10 {
+  position: absolute;
+  top: 460px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.ive-worked-in10,
+.what-if-famous5 {
+  position: absolute;
+  left: 16px;
+  display: inline-block;
+}
+.what-if-famous5 {
+  top: 485px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 280px;
+}
+.ive-worked-in10 {
+  top: 537px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  width: 324px;
+}
+.android-signin-child9 {
+  position: absolute;
+  top: 576px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.android-signin-child10 {
+  position: absolute;
+  top: 485px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.sarthak-kamra7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.sarthak-kamra-parent {
+  position: absolute;
+  top: 578px;
+  left: 65px;
+  width: 91px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.group-child161 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 70px;
+  height: 36px;
+}
+.baseline-share-24px-icon {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.share {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.rectangle-parent77 {
+  position: absolute;
+  top: 577px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.education10 {
+  position: absolute;
+  top: 785px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.ive-worked-in11,
+.tax-benefits-for5 {
+  position: absolute;
+  left: 16px;
+  display: inline-block;
+}
+.tax-benefits-for5 {
+  top: 810px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  width: 280px;
+}
+.ive-worked-in11 {
+  top: 883px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  width: 324px;
+}
+.android-signin-child11 {
+  position: absolute;
+  top: 922px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.android-signin-child12 {
+  position: absolute;
+  top: 810px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.finance-investment5,
+.meetup5 {
+  position: absolute;
+  top: 1131px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.finance-investment5 {
+  top: 1156px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: inline-block;
+  width: 280px;
+}
+.outline-location-on-24px-icon8 {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.ahmedabad-india5 {
+  position: absolute;
+  top: 0;
+  left: 180px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.baseline-today-24px-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.group-child162,
+.outline-location-on-24px-parent6 {
+  position: absolute;
+  top: 1208px;
+  left: 16px;
+  width: 280px;
+  height: 16px;
+}
+.group-child162 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 0.7px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 34px;
+}
+.visit-website5 {
+  position: absolute;
+  top: 8px;
+  left: 124px;
+  line-height: 140.4%;
+  font-weight: 600;
+}
+.rectangle-parent78 {
+  position: absolute;
+  top: 1240px;
+  left: 16px;
+  width: 328px;
+  height: 34px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-tomato);
+}
+.android-signin-child13 {
+  position: absolute;
+  top: 1156px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.sarah-west-parent {
+  position: absolute;
+  top: 924px;
+  left: 65px;
+  width: 69px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent79 {
+  position: absolute;
+  top: 923px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.android-signin-child14 {
+  position: absolute;
+  top: 1302px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.views {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-darkslategray-100);
+}
+.ronal-jones-parent {
+  position: absolute;
+  top: 1304px;
+  left: 65px;
+  width: 74px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent80 {
+  position: absolute;
+  top: 1303px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.android-signin-child15,
+.android-signin-child16 {
+  position: absolute;
+  top: 651px;
+  left: 0;
+  border-radius: var(--br-9xs) var(--br-9xs) 0 0;
+  width: 360px;
+  height: 120px;
+  object-fit: cover;
+}
+.android-signin-child16 {
+  top: 997px;
+}
+.android-signin-child17 {
+  position: absolute;
+  top: 1365px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  width: 360px;
+  height: 237px;
+}
+.job8,
+.software-developer- {
+  position: absolute;
+  top: 1385px;
+  left: 16px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.software-developer- {
+  top: 1410px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  display: inline-block;
+  width: 280px;
+}
+.apply-on-timesjobs3 {
+  position: absolute;
+  top: 8px;
+  left: 105px;
+  line-height: 140.4%;
+  font-weight: 600;
+}
+.rectangle-parent81 {
+  position: absolute;
+  top: 1479px;
+  left: 16px;
+  width: 328px;
+  height: 34px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-mediumseagreen-100);
+}
+.android-signin-child18 {
+  position: absolute;
+  top: 1410px;
+  left: 314px;
+  width: 28px;
+  height: 28px;
+}
+.android-signin-child19 {
+  position: absolute;
+  top: 1545px;
+  left: 16px;
+  border-radius: var(--br-5xl);
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.joseph-gray-parent {
+  position: absolute;
+  top: 1547px;
+  left: 65px;
+  width: 75px;
+  height: 33px;
+  font-size: var(--font-size-smi);
+}
+.rectangle-parent82 {
+  position: absolute;
+  top: 1546px;
+  left: 272px;
+  width: 70px;
+  height: 36px;
+}
+.innovaccer-analytic {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  display: inline-block;
+  width: 120px;
+}
+.outline-location-on-24px-parent7 {
+  position: absolute;
+  top: 1447px;
+  left: 16px;
+  width: 247px;
+  height: 16px;
+}
+.android-signin-child20 {
+  position: absolute;
+  top: 559px;
+  left: 284px;
+  width: 62px;
+  height: 62px;
+}
+.android-signin-child21,
+.rectangle17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+}
+.android-signin-child21 {
+  background-color: var(--color-gray-400);
+  height: 640px;
+  opacity: 0.6;
+}
+.rectangle17 {
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  background-color: var(--color-white);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  height: 462px;
+}
+.forgot-password1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 334px;
+  left: 57px;
+  font-size: var(--font-size-2xs);
+  letter-spacing: -0.01em;
+  line-height: 16px;
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-gray-400);
+  text-align: center;
+  display: inline-block;
+  width: 240px;
+}
+.welcome-back {
+  position: absolute;
+  top: 22px;
+  left: 20px;
+  font-size: var(--font-size-lg);
+}
+.group-child167 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-white);
+  border: 0.6px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 320px;
+  height: 38px;
+}
+.sign-in-with4 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  font-size: var(--font-size-smi);
+  line-height: 16px;
+  font-family: var(--font-ibm-plex-sans);
+  color: var(--color-black);
+  text-align: left;
+}
+.group15 {
+  position: absolute;
+  top: 11px;
+  left: 91px;
+  width: 138px;
+  height: 16px;
+}
+.rectangle-parent84 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 274px;
+  left: 20px;
+  width: 320px;
+  height: 38px;
+}
+.f-logo-rgb-blue-1024-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.sign-in-with-facebook-container {
+  position: absolute;
+  top: 11px;
+  left: 84px;
+  width: 153px;
+  height: 16px;
+}
+.rectangle-parent85 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 224px;
+  left: 20px;
+  width: 320px;
+  height: 38px;
+}
+.group-child169 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-royalblue-100);
+  width: 150px;
+  height: 36px;
+}
+.sign-in5 {
+  position: absolute;
+  top: 10px;
+  left: 54px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.rectangle-parent86 {
+  position: absolute;
+  top: 166px;
+  left: 20px;
+  width: 150px;
+  height: 36px;
+  text-align: center;
+  color: var(--color-white);
+}
+.or-create-account {
+  text-decoration: underline;
+  position: absolute;
+  top: 175px;
+  left: 230px;
+  font-weight: 500;
+  color: var(--color-darkslategray-100);
+  text-align: right;
+}
+.group-child170,
+.group-child171 {
+  position: absolute;
+  left: 0;
+  width: 320px;
+  height: 40px;
+}
+.group-child170 {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-sans);
+  font-size: var(--font-size-smi);
+  background-color: transparent;
+  top: 39px;
+}
+.group-child171 {
+  border: 1px solid var(--color-gainsboro-200);
+  background-color: var(--color-whitesmoke-100);
+  top: 0;
+  border-radius: var(--br-11xs) var(--br-11xs) 0 0;
+  box-sizing: border-box;
+}
+.email3 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.group-parent13,
+.rectangle-parent87 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 40px;
+}
+.group-parent13 {
+  top: 65px;
+  left: 20px;
+  height: 79px;
+  color: var(--color-gray-100);
+}
+.baseline-cancel-24px-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.baseline-cancel-24px-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 22px;
+  left: 316px;
+  width: 24px;
+  height: 24px;
+  opacity: 0.8;
+}
+.rectangle-parent83 {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  width: 360px;
+  height: 462px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.android-signin {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  font-family: var(--font-ibm-plex-sans);
+}
